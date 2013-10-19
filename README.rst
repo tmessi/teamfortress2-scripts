@@ -1,10 +1,10 @@
-=================
-Left4Dead Scripts
-=================
+=======================
+Team Fortress 2 Scripts
+=======================
 
-Scripts used for Left4Dead and Left4Dead2
+Scripts used for Team Fortress 2
 
 To install::
 
-    git clone git://github.com/shadowfax-chc/left4dead-scripts.git
-    ./left4dead-scripts/install.sh
+    git clone git://github.com/shadowfax-chc/teamfortress2-scripts.git
+    ./teamfortress2-scripts/install.sh
